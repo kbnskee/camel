@@ -1,3 +1,7 @@
+# camel — downloaded binaries and package store (not source code)
+node/
+store/
+
 # Logs
 logs
 *.log
